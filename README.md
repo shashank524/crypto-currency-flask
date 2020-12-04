@@ -10,4 +10,4 @@
 ```python app.py```
 
 
-[heroku demo link]:(https://ecoincurrency.herokuapp.com)
+[heroku demo link](https://ecoincurrency.herokuapp.com)
