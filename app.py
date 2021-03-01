@@ -21,11 +21,6 @@ app.secret_key = 'W742FSHIVc'
 #configure mysql
 
 
-app.config['MYSQL_HOST'] = 'sql12.freemysqlhosting.net'
-app.config['MYSQL_USER'] = 'sql12376887'
-app.config['MYSQL_PASSWORD'] = 'KTCPxGWuQ6'
-app.config['MYSQL_DB'] = 'sql12376887'
-app.config['MYSQL_CURSORCLASS'] = 'DictCursor'
 
 # app.config['MYSQL_HOST'] = 'localhost'
 # app.config['MYSQL_USER'] = 'root'
